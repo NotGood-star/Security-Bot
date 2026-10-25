@@ -1,4 +1,4 @@
-# Discord OAuth2 Utility Bot (JavaScript + Render)
+# Discord OAuth2 Utility Bot
 
 This project includes opt-in announcement DMs, invite utilities, and an OAuth2 flow for people who choose to join the configured destination server.
 
